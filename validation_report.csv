@@ -1,0 +1,9 @@
+Validation Check,Result
+Expected columns present,True
+Duplicate rows,0
+Repeated Order IDs,0
+Negative delivery durations,0
+Missing delivery durations,0
+Invalid timestamps,0
+Valid records,1000
+Rejected records,0
